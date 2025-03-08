@@ -1,0 +1,15 @@
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\bin\Debug\net9.0\Projekti.exe
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\bin\Debug\net9.0\Projekti.deps.json
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\bin\Debug\net9.0\Projekti.runtimeconfig.json
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\bin\Debug\net9.0\Projekti.dll
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\bin\Debug\net9.0\Projekti.pdb
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\Projekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\Projekti.AssemblyInfoInputs.cache
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\Projekti.AssemblyInfo.cs
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\Projekti.csproj.CoreCompileInputs.cache
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\Projekti.sourcelink.json
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\Projekti.dll
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\refint\Projekti.dll
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\Projekti.pdb
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\Projekti.genruntimeconfig.cache
+C:\Users\jenna_\OneDrive\Tiedostot\Koodaus\OhjelmistoKehitys.test\Projekti\obj\Debug\net9.0\ref\Projekti.dll
