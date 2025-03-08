@@ -1,0 +1,163 @@
+Projekti
+
+Säät
+
+Aurinkoinen
+
+Pilvinen
+
+Sateinen
+ - Kova
+ - Ei kova
+
+Lumisade
+ - Kova
+ - Ei kova
+
+Ukkonen
+
+Tuulinen
+
+Aktiviteetit
+
+Aurinkoinen:
+
+- Mene kävelylle
+- Ota aurinkoa (jos kesä)
+- Pyöräily
+- Uiminen
+- Piknik
+- Valokuvaus
+- Urheilu (lentopallo, frisbeegolf, koripallo)
+- Kirpputori
+- Kaupungin tutkiminen
+- Luontopäivä (luonnonsuojelualue, metsä)
+- Marjojen poiminta
+- Grillaus
+- Lautapelit ulkona
+- Luistelu
+- Hiihtäminen
+- Lumisota
+- Laskettelu
+- Kahvila treffit
+- Pokemon Go
+
+Pilvinen
+ - Kirjasto
+ - Elokuvailta / elokuvateatteri
+ - Pelaaminen (lautapelit / tietokone)
+ - Kuntosali
+ - Kahvila
+ - Escape room
+ - Keilaus
+ - Valokuvaus
+ - Järjestä omat tavarasi
+ - Museot
+ - Meditaatio
+ - Jooga
+ - Sarjamaraton
+ - Kylpyläpäivä
+ - Maalaus / askartelu
+ - Minigolfaus
+ - Lukeminen
+ - Bucket list
+ - Pokemon Go
+
+Sateinen
+ Kova:
+   - Opiskelu
+   - Elokuvamaraton
+   - Kirjapäivä
+   - Järjestelypäivä
+   - Lautapelit ja korttipelit
+   - Discord gaming
+   - Maalaus / piirtäminen
+   - Kirjoittaminen
+   - Kylpy tai pitkä suihku
+   - Facetime perheelle / ystäville
+   - Rakentaa tyynymaja
+   - Kynttilät
+   - Romanttinen illallinen
+   - Yhteinen treeni
+   - Tee tai viini maistelu
+   - Leivonta
+   - Suunnitelkaa tulevaa
+   - Yhteinen kylpy
+   - Sateen katselu
+   - Tramppapuisto
+ 
+Pieni sade:
+   - Sadevarjo kävely (myös saman alla)
+   - Juoksu sateessa
+   - Sadetanssi
+   - Sadepäivän tutkimusretki
+   - Lätäkkö hyppely (kumisaappaat)
+   - Biljardi
+   - Ulkoillallinen katoksen alla
+   - Piirrä toisenne
+   - Sateenkaaren metsästys
+   - Järvessä uinti
+   - Elokuvahetki
+   - Sisäspa
+
+Lumisade
+  Kova:
+   - Kokkaus / leivonta
+   - Lämmittelyhetki takan äärellä
+   - Lautapelit
+   - Lumikoristelu
+   - Sisämaja
+   - Opiskelu
+   - Kynttilä illallinen
+   - Elokuva maratooni
+   - Vanhojen valokuvien katselu
+
+  Pieni:
+   - Lumisota
+   - Luistelu
+   - Lumiukko
+   - Talvinen kävely
+   - Lumienkeli
+   - Lumilyhdyt
+   - Iglu
+   - Kuumat juomat
+   - Leivonta (piparit, tortut)
+   - Kirja ja viltti
+   - Lumiaiheiset askartelut
+   - Fondue-ilta (suklaata ja juustoa ja dippaa esim. hedelmiä)
+   - Talvikeitto
+   - Lumikenkäily
+   - Yö kävely lumessa
+   - Pulkkailu
+   - Laskettelu
+   - Sadetanssi mutta lumessa
+   - Talvimarkkinat
+   - Lämmin kylpy
+
+Ukkonen
+ - Elokuvailta pimeässä
+ - Kynttilänvalossa rentoutuminen
+ - Lautapelit
+ - Tarinankerronta
+ - Askartelu
+ - Myrskyn katsominen
+ - Tunnelmallinen myrskyillallinen
+ - Palapelit
+ - Salamanmetsästys
+ - Kirjoittaminen
+ - Ukkosmyrsky aikakapseli
+ - Tyynymaja
+
+Tuulinen
+ - Kävely rannalla / puistossa
+ - Sisällä rentoutuminen
+ - Suppailu / melonta
+ - Pyöräily
+ - Leija
+ - Tuulen kuuntelu
+
++ Musiikin kuuntelu / soitto / laulu
++ Askartelu / käsityö
++ Uusiin paikkoihin tutustuminen
++ Shoppailu
++ Kokkausprojekti
