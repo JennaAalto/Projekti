@@ -161,3 +161,10 @@ Tuulinen
 + Uusiin paikkoihin tutustuminen
 + Shoppailu
 + Kokkausprojekti
+
+Työnjako on still on the way.. Kaksi ryhmänjäsentä mukana
+Koodaus, powerpoint ja chart kesken mitkä pitää hoitaa.
+
+Työ jaettu tällä hetkellä koodaus - Iiro - powerpoint - Jenna
+
+Github hoidettu ja tiedostot siirretty GitHubiin.
