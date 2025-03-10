@@ -168,3 +168,5 @@ Koodaus, powerpoint ja chart kesken mitkä pitää hoitaa.
 Työ jaettu tällä hetkellä koodaus - Iiro - powerpoint - Jenna
 
 Github hoidettu ja tiedostot siirretty GitHubiin.
+
+Projekti edistyy ja työnjako hoidettu.
