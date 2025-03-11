@@ -85,6 +85,7 @@ Sateinen
    - Yhteinen kylpy
    - Sateen katselu
    - Tramppapuisto
+   - Lätäkkö hyppely
  
 Pieni sade:
    - Sadevarjo kävely (myös saman alla)
@@ -99,6 +100,7 @@ Pieni sade:
    - Järvessä uinti
    - Elokuvahetki
    - Sisäspa
+   - Lintubongaus
 
 Lumisade
   Kova:
